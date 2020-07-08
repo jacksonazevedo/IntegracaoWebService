@@ -8,7 +8,6 @@ public class Veiculo {
     private String cor;
     private String renavam;
 
-
     public String getModelo() {
         return modelo;
     }
@@ -24,8 +23,6 @@ public class Veiculo {
     public void setPlaca(String placa) {
         this.placa = placa;
     }
-
-
 
     public String getCor() {
         return cor;
